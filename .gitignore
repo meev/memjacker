@@ -1,4 +1,6 @@
 *.c~
+*.gdb_history
+*.swp
 *.h~
 *.bin
 *.so
